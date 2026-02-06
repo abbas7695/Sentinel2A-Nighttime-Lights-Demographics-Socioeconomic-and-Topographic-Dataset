@@ -191,8 +191,3 @@ Please cite the original data providers when using these datasets:
 
 ---
 
-## 🤝 Contribution
-
-Contributions, improvements, and extensions (e.g., ML pipelines, network analysis, SDG indicators) are welcome.
-
----
