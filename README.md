@@ -1,5 +1,10 @@
 # 📦 Sentinel-2A, Nighttime Lights, Demographic, Socioeconomic & Topographic Datasets (Google Earth Engine)
 
+## Author
+
+**Hasnain Abbas**
+PhD Scholar | Research Interest: SDG 11, Cartography, GIS&RS, GeoAI & its Applications in Land Changes
+
 ## 📌 Overview
 
 This repository contains **Google Earth Engine (GEE) scripts** for downloading and preprocessing **multisource geospatial datasets** required for **urban analysis, spatial accessibility modeling, and SDG-11–oriented GeoAI research**.
